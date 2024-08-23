@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(120, 155, 215);
+}
+h1
+{
+    padding-top: 10px;
+}
+#textbox{
+    padding: 10px 15px;
+    text-align: center;
+    font-size: 18px;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+.rad{
+    font-size: 20px;
+}
+#btn{
+    color:white;
+    background-color: rgb(218, 63, 63);
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 20px;
+    font-weight: 200;
+    padding: 7px 20px;
+    margin:15px;
+    border: none;
+}
+#btn:hover{
+    background-color: rgb(148, 13, 13);
+}
+
+form{
+    width: 30em;
+    background-color: rgb(225, 183, 183);
+    text-align: center;
+    margin: 150px 390px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px black;
+}
+
+#FtoC{
+    font-size: 22px;
+    margin: auto;
+    padding-bottom: 5px;;
+    font-weight: bolder;
+}
+label{
+    font-size: 19px;
+    font-weight:550;
+}
